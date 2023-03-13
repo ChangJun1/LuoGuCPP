@@ -1,0 +1,11 @@
+//https://www.luogu.com.cn/problem/B2017
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    char c;
+    cin >> c;
+    cout << (int) c << endl;
+    return 0;
+}
