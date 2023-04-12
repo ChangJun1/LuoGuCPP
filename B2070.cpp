@@ -1,4 +1,4 @@
-//https://www.luogu.com.cn/problem/B2069
+//https://www.luogu.com.cn/problem/B2070
 #include <iostream>
 #include <iomanip>
 #include <cmath>
